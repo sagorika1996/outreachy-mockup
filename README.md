@@ -24,7 +24,7 @@ This is a simple design mockup for the summary tool. I'll briefly go over the ba
   contributed to. If the user doesn't customize his/her pinned articles, we'll continue to show their best articles. 
   - Contribution calender: The contributions calendar shows user's contribution activity. Actions such as the following 
   can be considered as contribution:
-    - Editig an article
+    - Editing an article
     - Creating a new article
     - Renaming and page deletion
     - Adding images, sounds and videos
