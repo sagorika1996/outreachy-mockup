@@ -31,7 +31,7 @@ This is a simple design mockup for the summary tool. I'll briefly go over the ba
     - Adding lists, tables and templates
   - Recent contributions: It will show the few most recent contributions made by the user.
 3. Starred articles: Starring an article allows the user to keep track of articles that they find interesting, even if they 
-aren't associated with it. 
+aren't associated with it. This view shows all the articles starred by the user.
 4. Complete contribution list: Shows the complete list of contributions made by the user ordered by timestamp.
 
 The ideas are similar to the already existing contribution summary tools like [Github](https://github.com/), [Stackoverflow](https://stackoverflow.com/). 
