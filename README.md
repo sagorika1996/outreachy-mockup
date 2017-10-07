@@ -34,5 +34,5 @@ This is a simple design mockup for the summary tool. I'll briefly go over the ba
 aren't associated with it. 
 4. Complete contribution list: Shows the complete list of contributions made by the user ordered by timestamp.
 
-The ideas are similar to the already existing contribution timeline like [Github](https://github.com/), [Stackoverflow](https://stackoverflow.com/). 
-There are many unknowns which can be discussed over and finalised later.
+The ideas are similar to the already existing contribution summary tools like [Github](https://github.com/), [Stackoverflow](https://stackoverflow.com/). 
+There are many unknowns which can be discussed over and finalised later. Further a timeline of events can also be added to showcase in detail every important event in a chronological manner.
