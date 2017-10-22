@@ -42,6 +42,7 @@ This is a simple design mockup for the summary tool. I'll briefly go over the ba
 aren't associated with it. This view shows all the articles starred by the user.
 
 6. Complete contribution list: Shows the complete list of contributions made by the user ordered by timestamp.
+<br><br>
 ![Alt text](https://github.com/sagorika1996/outreachy-mockup/blob/master/img/complete.jpg)
 
 7. A timeline of events can also be added to showcase in detail every important event in a chronological manner.
