@@ -11,6 +11,8 @@ This is a simple design mockup for the summary tool. I'll briefly go over the ba
 1. Profile Overview Section:
 - User details: Such as display pic, username, full name, location, workplace etc.
 - Top X percentile in Y category: Shows that the user is among the top contributors in the mentioned categories.
+![Alt text](https://github.com/sagorika1996/outreachy-mockup/blob/master/img/profile.jpg)
+
 - Badges: The whole point of creating a contribution summary tool is to motivate editors to participate on 
   Wikimedia projects. Badges could be used as a reward for contributions that may not necessarily be extraordinarily 
   significant from a Wikimedia project’s point of view but may still be meaningful to an individual. We can have badges like:
@@ -21,7 +23,7 @@ This is a simple design mockup for the summary tool. I'll briefly go over the ba
   - Created X+ articles.
   - Best new article in a given category.
   - Admin.     
-![Alt text](https://github.com/sagorika1996/outreachy-mockup/blob/master/img/profile.jpg)
+![Alt text](https://github.com/sagorika1996/outreachy-mockup/blob/master/img/badge.jpg)
 
 2. Pinned articles: User can showcase the articles that best represent their work. Using the they can pin any article they 
   contributed to. If the user doesn't customize his/her pinned articles, we'll continue to show their best articles. 
