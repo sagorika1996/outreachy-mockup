@@ -1,8 +1,7 @@
 # Contribution Summary Tool Mockup
 
 ## Description
-Rewarding community members for smaller contributions could lead to significant aggregate contribution to a project. The tool should 
-serve as symbols of acknowledgement and to monitor their impact on the community. 
+The motive of Contribution Summary tool is to allow editors to gain real value from their contributions by making their contributions transparent and understandable for professional benefits.
 
 Important points to keep in mind while designing the tool's interface:
 1. This tool is aimed to be utilized in professional environments.
